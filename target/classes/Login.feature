@@ -2,7 +2,7 @@
 Feature: Login test
 
 Background:
-	Given Open chrome browser
+	Given Open chrome                                  browser
 	And Go to login page using URL
 	
 @Positive @Tool-2
